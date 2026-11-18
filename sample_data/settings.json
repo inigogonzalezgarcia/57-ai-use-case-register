@@ -1,0 +1,93 @@
+{
+  "organisation": "Humongous Insurance",
+  "review_date": "2026-11-18",
+  "previous_score": 82.6,
+  "prohibited": [
+    "emotion recognition at work",
+    "social scoring",
+    "manipulation"
+  ],
+  "high_risk_areas": [
+    "hiring",
+    "staff evaluation",
+    "creditworthiness",
+    "insurance pricing",
+    "claims decisions",
+    "biometric identification"
+  ],
+  "controls": {
+    "high": [
+      "owner",
+      "oversight",
+      "dpia",
+      "risk",
+      "tests",
+      "logging",
+      "dpa",
+      "notice",
+      "training"
+    ],
+    "limited": [
+      "owner",
+      "notice",
+      "dpa",
+      "training"
+    ],
+    "minimal": [
+      "owner",
+      "dpa"
+    ]
+  },
+  "review_months": {
+    "high": 3,
+    "limited": 6,
+    "minimal": 12
+  },
+  "approved_tools": {
+    "Microsoft 365 Copilot": [
+      "public",
+      "internal",
+      "confidential",
+      "personal"
+    ],
+    "Copilot Studio": [
+      "public",
+      "internal",
+      "confidential",
+      "personal"
+    ],
+    "Azure OpenAI": [
+      "public",
+      "internal",
+      "confidential",
+      "personal",
+      "special"
+    ],
+    "GitHub Copilot": [
+      "public",
+      "internal",
+      "confidential"
+    ],
+    "Litware Writer": [
+      "public",
+      "internal"
+    ],
+    "Northwind Translate": [
+      "public",
+      "internal",
+      "confidential"
+    ]
+  },
+  "pilot_max_days": 90,
+  "adoption_min": 60,
+  "value_min": 50,
+  "shadow_users_red": 25,
+  "incident_days": 14,
+  "training_months": 12,
+  "owners": {
+    "register": "Beatriz Marín (AI governance lead)",
+    "security": "Fernando Domínguez (Information security)",
+    "privacy": "Clara Bravo (Data protection officer)",
+    "value": "Marta Ruiz (AI programme manager)"
+  }
+}

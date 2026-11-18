@@ -1,0 +1,6 @@
+Incident,UseCase,Opened,Severity,Summary,State,Closed
+AI-101,UC-02,2026-10-21,High,Chatbot told a customer that a dental treatment was covered by a policy that excludes it,Open,
+AI-102,UC-01,2026-09-10,Medium,A Copilot answer quoted an HR file the user could open through a sharing link left from 2023,Closed,2026-09-12
+AI-103,UC-06,2026-08-02,Medium,Triage sent two windscreen claims to specialist review,Closed,2026-08-05
+AI-104,UC-15,2026-11-09,Low,Draft commentary quoted last year's claims ratio,Open,
+AI-105,Claims FAQ bot,2026-11-03,Medium,Bot gave staff an out-of-date claims authority limit,Open,

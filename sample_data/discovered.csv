@@ -1,0 +1,19 @@
+Source,Name,Publisher,Owner,Department,Users,DataSeen,LastActivity
+Copilot Studio,Customer service chatbot,,Javier Soto,Customer Service,0,Personal,2026-11-17
+Copilot Studio,IT knowledge base agent,,Marta Ruiz,IT,388,Internal,2026-11-17
+Copilot Studio,Broker email triage,,Ana Vidal,Commercial,12,Personal,2026-11-16
+Copilot Studio,Fraud signals summary,,Carlos Gil,Claims,18,Personal,2026-11-17
+Copilot Studio,HR policy Q&A agent,,Laura Méndez,HR,296,Internal,2026-11-17
+Copilot Studio,Staff performance summaries,,Lucía Navarro,HR,9,Personal,2026-11-13
+Copilot Studio,Sales forecasting assistant,,Ana Vidal,Commercial,4,Confidential,2026-10-28
+Copilot Studio,Claims FAQ bot,,Rosa Lara,Claims,142,Confidential,2026-11-17
+Copilot Studio,Proposal writer agent,,Iván Serrano,Commercial,6,Internal,2026-11-12
+Enterprise apps,Trey Transcribe,Trey Research,,Sales,34,Confidential,2026-11-17
+Enterprise apps,Litware Writer,Litware,,Marketing,19,Internal,2026-11-16
+Enterprise apps,Northwind Translate,Northwind,,Operations,22,Confidential,2026-11-17
+Enterprise apps,GitHub Copilot,GitHub,,IT,41,Internal,2026-11-17
+Enterprise apps,Fabrikam Voice Analytics,Fabrikam,,Contact Centre,12,Personal,2026-11-14
+Enterprise apps,Lucerne Note Taker,Lucerne,,Sales,23,Confidential; Personal,2026-11-17
+Cloud app discovery,Adatum Slides AI,Adatum,,Commercial,31,,2026-11-17
+Cloud app discovery,Coho Chat,Coho,,Marketing,14,Personal,2026-11-15
+Cloud app discovery,Wingtip Translate,Wingtip,,Operations,9,,2026-11-10
